@@ -1,6 +1,6 @@
 # OMX image viewer
 
-A GPU accelerated image viewer for the Raspberry Pi. 
+A GPU accelerated image viewer for the Raspberry Pi. This is for use with Raspicast available on the Google Play store as a Google Chromecast alternative. Check out the guide for installing Raspicast at https://pimylifeup.com/raspberry-pi-chromecast/.
 
 ## Building
 

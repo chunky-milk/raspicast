@@ -18,7 +18,7 @@ OMXPlayer might be preinstalled in your install of Raspbian, but we need to chec
 This can be called OpenMax Image Viewer. It is a required part of Raspicast because it is a GPU accelerated image viewer explicitly designed for the Raspberry Pi’s GPU, meaning we can display any images as fast as possible and reduce the load on the Raspberry Pi’s CPU.
 ```
 cd ~
-git clone https://github.com/HaarigerHarald/omxiv.git
+git clone https://github.com/chunky-milk/raspicast.git
 ```
 
 ### 5.) Install libjpeg8-dev and libpng12-dev

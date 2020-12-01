@@ -1,6 +1,7 @@
 # OMX image viewer
+# https://github.com/chunky-milk/raspicast/blob/main/RASPICAST-SETUP.md
 
-A GPU accelerated image viewer for the Raspberry Pi. This is for use with Raspicast available on the Google Play store as a Google Chromecast alternative. Check out the guide for installing Raspicast at https://pimylifeup.com/raspberry-pi-chromecast/.
+A GPU accelerated image viewer for the Raspberry Pi. This is for use with Raspicast available on the Google Play store as a Google Chromecast alternative. 
 
 ## Building
 
